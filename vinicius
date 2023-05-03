@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="idolos.css" >
+</head>
+<body class="body">
+
+    <h1> Idolos do Grêmio </h1>
+    <h2> Renato Gaúcho </h2>
+       <p>
+        Renato Gaúcho, também conhecido como Renato Portaluppi, é sem dúvida um dos maiores jogadores da história do Grêmio. Sua trajetória no clube foi marcada por grandes conquistas, incluindo a Libertadores e o Mundial de 1983, os maiores títulos do Tricolor. Além de ser o destaque do time nessas competições, Renato também é um personagem marcante, conhecido por sua irreverência e polêmicas, o que só aumenta sua popularidade entre os fãs. Atualmente, como técnico do Grêmio, Renato conduziu o time à vitória na Copa do Brasil de 2016, encerrando um período de 15 anos sem títulos.
+       </p>    
+
+    <h2> Danrlei </h2>   
+       <p>
+        Intitulado como um dos maiores goleiros da história do Grêmio, este jogador foi um dos destaques da era de ouro do clube na década de 90, conquistando muitos títulos importantes. Embora não fosse considerado um goleiro técnico, sua garra, liderança e dedicação o transformaram em um ídolo incontestável entre a torcida gremista. Além disso, ele se destacava em momentos cruciais, principalmente no clássico Grenal.
+       </p>
+
+    <h2> Dinho </h2>
+       <p>
+        Ele foi um dos grandes destaques da década de 90, sendo conhecido como “Cangaceiro dos pampas” por sua marcante e agressiva atuação em campo. Natural de Sergipe, sempre defendeu as cores do Grêmio como um volante sólido e intransponível.
+
+        Seu desempenho o transformou em um dos ídolos da torcida tricolor. Ficou marcado na história ao marcar o gol de pênalti contra o Atlético Nacional, na Colômbia, que garantiu o título da Libertadores de 1995 para o Grêmio.
+       </p>
+    <h2> Paulo Nunes </h2>   
+       <p>
+        Ele foi um atacante reconhecido por sua força e coragem em campo, sempre enfrentando os adversários de frente. Juntamente com Jardel, formou uma dupla ofensiva de grande destaque na década de 90, proporcionando muitas alegrias aos torcedores gremistas. Além de suas assistências, Paulo Nunes também contribuiu com gols importantes que ajudaram o clube a conquistar muitos títulos.
+       </p>
+</body>
+</html>
