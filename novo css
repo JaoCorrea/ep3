@@ -148,4 +148,14 @@ footer ul li a {
   width: 20%; /* O valor que você desejar. */
 }
 
+.idolos{
+  text-align: center;
+  background-color: #000000;
+  -webkit-text-fill-color: #6d6bf3;
 
+}
+
+.geromito{
+width: 300x;
+height: 450px;
+}
