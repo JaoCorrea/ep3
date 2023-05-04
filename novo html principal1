@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="trabalho3.css" >
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <header class='topo'> 
+      <ul class="ultopo">          
+        <li ><a href="https://www.youtube.com/watch?v=jFQnvkO3UtE"> <img class="botao-gremio "  src="imagens-gremio/teste1-removebg-preview.png" alt="gremio"></a></li>
+        <h1> Grêmio Foot-Ball Club</h1>
+    </header>
+         <main>
+           <section>
+             <header>
+
+            <h2> História</h2>
+  
+          </header>
+          <div>
+            <p>O Grêmio Foot-Ball Porto Alegrense (conhecido apenas por Grêmio) é um clube de futebol brasileiro da cidade de Porto Alegre, no Rio Grande do Sul, fundado em 15 de setembro de 1903 por Candido Dias da Silva. É considerado um dos maiores clubes do Brasil e da América do Sul. Suas cores são azul, preto e branco. O clube tem como alcunhas: Imortal Tricolor, Tricolor dos Pampas, Tricolor Gaúcho, Rei de Copas e Clube de Todos</p>
+           
+        </section>
+      
+      </main>
+</body>
+   <p>
+      <h1>
+             Arena Do Grêmio
+      </h1>
+   </p>
+
+   <p>
+    Arena do Grêmio é um estádio de futebol localizado no bairro Farrapos, Porto Alegre, Rio Grande do Sul.Sua capacidade oficial é para 55.662 lugares, sendo o 7º maior estádio do Brasil. No Sisbrace, sistema de avaliação de estádios de futebol do Ministério do Esporte do Brasil, a Arena do Grêmio recebeu classificação máxima em todos os aspectos.A arena foi inaugurada oficialmente em 8 de dezembro de 2012, com uma cerimônia que contou com a presença do grupo americano Blue Man Group, e um jogo amistoso entre o Grêmio e o Hamburgo, que terminou com o placar de 2–1 para o Grêmio. Mesmo sendo um dos estádios mais modernos do Brasil, não foi relacionado como sede da Copa do Mundo FIFA de 2014, realizada no país, mas em 2019 a Arena do Grêmio foi selecionada como uma das sedes da Copa América de 2019 onde foram realizadas cinco partidas, entre elas a semifinal entre Chile e Peru, que terminou em 3–0 a favor dos peruano
+   </p>
+
+   <img class="arena-gremio1" src ="imagens-gremio/arena-gremio.jpg" alt="arena">
+
+   <h1>
+     Títulos 
+  </h1>
+   <p>
+    Os dados apresentados aqui estão baseados em documentos oficiais do clube e de federações, em troféus do acervo do clube e em informações publicadas na imprensa. Os títulos foram obtidos por equipes que representaram o Grêmio nas competições amadoras até 1936, e profissionais a partir de 1937. Eventuais alterações são possíveis a partir da descoberta de novos documentos.
+   </p>
+   <p>
+     <b>Títulos Internacionais</b>
+   </p>
+      <p>
+          1949 - Copa El President de la Republica de Costa Rica - Costa Rica
+          1949 - Taça do Cinquentenário do Nacional (Troféu Sadrep) - Uruguai
+          1954 - Copa José Gonzalez Artigas - Equador
+          1961 - Troféu Internacional de Atenas - Grécia
+          1962 - Troféu Internacional de Salônica - Grécia
+          1968 - Taça Río de La Plata
+          1971 - Copa Internacional de Porto Alegre (Taça Prefeito Municipal)
+          1971 - Taça do Atlântico (Torneio Sul-Americano de Clubes Tricolores)
+          1972 - Taça Cidade de Salvador
+          1979 - Troféu Ciudad de Rosário - Argentina
+          1981 - Copa El Salvador del Mundo - El Salvador
+          1981 - Troféu Ciudad de Valladolid - Espanha
+          1981 - Troféu Torre del Vigia - Uruguai
+          1983 - Campeão Copa Libertadores da América
+          1983 - Campeão Mundial Interclubes - Japão
+          1983 - Copa Los Angeles - EUA
+          1983 - Troféu "CEL" - El Salvador
+          1985 - Copa Rotterdam - Holanda
+          1985 - Troféu Palma de Mallorca - Espanha
+          1986 - Copa Phillips - Holanda
+          1987 - Bicampeão da Copa Phillips - Suíça
+          1995 - Bicampeão da Copa Libertadores da América
+          1995 - Sanwa Bank Cup (Copa da Amizade Brasil-Japão) - Japão
+          1996 - Copa Renner (Torneio Internacional de Verão)
+          1996 - Recopa Sul-Americana - Japão
+          1996 - Troféu Agrupación Peñas Valencianas - Espanha
+          1997 - Troféu Colombino - Espanha
+          1998 - Copa Ano Novo 98 - Pepsi Cola - China
+          1998 - Taça Hang Ching - China
+          2010 - Troféu Fronteira da Paz - Uruguai
+          2017 - Tricampeão da Copa Libertadores da América
+          2018 - Bicampeão da Recopa Sul-Americana
+      </p>
+
+
+    <p>
+      <b>Títulos Nacionais</b>
+    </p>  
+    <p>
+      1981 - Campeão Brasileiro
+      1989 - Campeão Invicto da Copa do Brasil
+      1990 - Supercampeão do Brasil
+      1994 - Bicampeão Invicto da Copa do Brasil
+      1996 - Bicampeão Brasileiro
+      1997 - Tricampeão Invicto da Copa do Brasil
+      2001 - Tetracampeão da Copa do Brasil
+      2005 - Campeão Brasileiro Série B
+      2016 - Pentacampeão da Copa do Brasi
+    </p>  
+
+
+    <p>
+      <b>Taças e Torneios Interestaduais</b>
+    </p>
+    <p>
+      1935 - Taça General Flores da Cunha
+      1940 - Taça Columbia Pictures
+      1949 - Taça Correio do Povo
+      1960 - Copa Tancredo Neves
+      1962 - Campeão Sul-Brasileiro (Taça da Legalidade)
+      1970 - Taça Petrobrás
+      1970 - Troféu Domingos Garcia Filho (Torneio Interestadual de Goiânia)
+      1971 - Taça Presidente Médici
+      1999 - Campeão da Copa Sul-Brasileira
+    </p>
+
+
+    <p>
+      <b>Títulos Estaduais e Municipais</b>
+    </p>
+    <p>
+      1911 - Campeão da Cidade de Porto Alegre
+      1912 - Campeão da Cidade de Porto Alegre
+      1913 - Campeão da Cidade de Porto Alegre
+      1914 - Campeão da Cidade de Porto Alegre
+      1915 - Campeão da Cidade de Porto Alegre
+      1919 - Campeão da Cidade de Porto Alegre
+      1920 - Campeão da Cidade de Porto Alegre
+      1921 - Campeão da Cidade de Porto Alegre
+      1921 - Campeão Gaúcho
+      1922 - Campeão da Cidade de Porto Alegre
+      1922 - Campeão Gaúcho
+      1923 - Campeão da Cidade de Porto Alegre
+      1925 - Campeão da Cidade de Porto Alegre
+      1926 - Campeão da Cidade de Porto Alegre
+      1926 - Campeão Gaúcho
+      1930 - Campeão da Cidade de Porto Alegre
+      1931 - Campeão da Cidade de Porto Alegre
+      1931 - Campeão Gaúcho
+      1932 - Campeão da Cidade de Porto Alegre
+      1932 - Campeão Gaúcho
+      1933 - Campeão da Cidade de Porto Alegre
+      1935 - Campeão da Cidade de Porto Alegre
+      1937 - Campeão da Cidade de Porto Alegre
+      1938 - Campeão da Cidade de Porto Alegre
+      1939 - Campeão da Cidade de Porto Alegre
+      1946 - Campeão da Cidade de Porto Alegre
+      1946 - Campeão Gaúcho
+      1949 - Campeão da Cidade de Porto Alegre
+      1949 - Campeão Gaúcho
+      1956 - Campeão da Cidade de Porto Alegre
+      1956 - Campeão Gaúcho
+      1957 - Campeão da Cidade de Porto Alegre
+      1957 - Campeão Gaúcho
+      1958 - Campeão da Cidade de Porto Alegre
+      1958 - Campeão Gaúcho
+      1959 - Campeão da Cidade de Porto Alegre
+      1959 - Campeão Gaúcho
+      1960 - Campeão da Cidade de Porto Alegre
+      1960 - Campeão Gaúcho
+      1962 - Campeão Gaúcho
+      1963 - Campeão Gaúcho
+      1964 - Campeão da Cidade de Porto Alegre
+      1964 - Campeão Gaúcho
+      1965 - Campeão da Cidade de Porto Alegre
+      1965 - Campeão Gaúcho
+      1966 - Campeão Gaúcho
+      1967 - Campeão Gaúcho
+      1968 - Campeão Gaúcho
+      1977 - Campeão Gaúcho
+      1979 - Campeão Gaúcho
+      1980 - Campeão Gaúcho
+      1985 - Campeão Gaúcho
+      1986 - Campeão Gaúcho
+      1987 - Campeão Gaúcho
+      1988 - Campeão Gaúcho
+      1989 - Campeão Gaúcho
+      1990 - Campeão Gaúcho
+      1993 - Campeão Gaúcho
+      1995 - Campeão Gaúcho
+      1996 - Campeão Gaúcho
+      1999 - Campeão Gaúcho
+      2001 - Campeão Gaúcho
+      2006 - Campeão da Copa FGF (Taça RS)
+      2006 - Campeão Gaúcho
+      2007 - Campeão Gaúcho
+      2010 - Campeão da Taça Fernando Carvalho (1º turno do Campeonato Gaúcho)
+      2010 - Campeão Gaúcho
+      2011 - Campeão da Taça Piratini (1º turno do Campeonato Gaúcho)
+      2018 - Campeão Gaúcho
+      2019 - Campeão da Recopa Gaúcha
+      2019 - Campeão Gaúcho
+      2020 - Campeão Gaúcho
+      2021 - Campeão da Recopa Gaúcha
+      2021 - Campeão Gaúcho
+      2022 - Campeão da Recopa Gaúcha
+      2022 - Campeão Gaúcho
+    </p>
+
+
+    <p>
+      <b> Taças e Torneios Regionais e Municipais </b>
+    </p>    
+    <p>
+      1904 - Taça Vereinpreis
+      1904 - Taça Vereinpreis (2ª edição)
+      1904 - Taça Wanderpreis
+      1905 - Campeão da Cidade
+      1905 - Taça Vereinpreis
+      1905 - Taça Wanderpreis
+      1905 - Taça Wanderpreis (2ª edição)
+      1906 - Campeão da Cidade
+      1906 - Taça Wanderpreis (2ª edição)
+      1907 - Taça Wanderpreis II
+      1909 - Campeão da Cidade
+      1909 - Taça Sportiva
+      1910 - Taça Wanderpreis II
+      1911 - Taça Wanderpreis II
+      1912 - Taça Wanderpreis II
+      1913 - Taça Wanderpreis III
+      1914 - Taça Rio Branco
+      1915 - Taça Rio Branco
+      1916 - Taça Rio Branco
+      1922 - Torneio Início de Porto Alegre
+      1923 - Taça Associação dos Varejistas
+      1924 - Taça Associação dos Varejistas
+      1924 - Taça São Pedro
+      1926 - Torneio F.C. Porto Alegre
+      1926 - Torneio Início de Porto Alegre
+      1926 - Torneio Washington Luis
+      1927 - Torneio Início de Porto Alegre
+      1928 - Torneio Congraçamento (Taça Fernando Caldas)
+      1929 - Taça Reivindicação
+      1929 - Torneio Início de Porto Alegre
+      1931 - Torneio de Encerramento de Porto Alegre (Noturno Porto Alegrense)
+      1931 - Torneio Início de Porto Alegre
+      1932 - Taça Dia do Desporto
+      1933 - Taça Dia do Cronista
+      1933 - Torneio de Encerramento de Porto Alegre (Noturno Porto Alegrense)
+      1934 - Taça Flores da Cunha
+      1935 - Torneio "Benefício da FRGD"
+      1936 - Taça Martel
+      1937 - Taça Martel
+      1937 - Torneio Início de Porto Alegre
+      1938 - Taça Café Nacional
+      1938 - Taça Dia do Filiado
+      1938 - Taça José Loureiro da Silva - "Supercampeonato Porto Alegrense"
+      1938 - Torneio de Encerramento de Porto Alegre (Noturno Porto Alegrense)
+      1939 - Torneio Início de Porto Alegre
+      1940 - Torneio Taça de Portugal
+      1942 - Taça Cambial
+      1943 - Taça Cambial
+      1943 - Taça Ernesto Dorneles
+      1944 - Taça Dia do Cronista
+      1945 - Taça Dia do Futebol
+      1946 - Taça Casa Sport
+      1946 - Taça General Corrêa Lima
+      1946 - Torneio Início de Porto Alegre
+      1948 - Campeão da Taça Cidade de Porto Alegre
+      1948 - Campeão do Campeonato Extra de Porto Alegre
+      1949 - Campeão do Campeonato Extra de Porto Alegre
+      1950 - Taça Manuel Amorim Albuquerque
+      1952 - Taça Rádio Gaúcha
+      1955 - Copa Farroupilha 120 anos (Dia do Cronista - Taça Bento Gonçalves)
+      1956 - Taça Dia do Cronista
+      1958 - Torneio Início de Porto Alegre
+      1960 - Taça Dia do Cronista
+      1961 - Taça Dia do Cronista
+      1962 - Taça Dia do Cronista
+      1962 - Taça Refinaria Ipiranga
+      1962 - Troféu Wallig
+      1963 - Torneio Início Estadual
+      1965 - Torneio Festa da Uva em Caxias
+      1965 - Torneio Início Estadual
+      1967 - Torneio Início Estadual
+      1968 - Taça Dia do Cronista
+      1985 - Troféu Sesquicentenário da Revolução Farroupilha
+      1988 - Taça RBS TV 25 Anos
+      1995 - Copa Solidariedade (Campanha do Agasalho)
+      1996 - Taça Cidade de Porto Alegre (Campanha do Agasalho)
+      2010 - Taça Rádio Pelotense 85 anos
+      2014 - Taça 80 anos Rádio Bandeirantes
+      2017 - Taça 90 anos da Rádio Gaúcha
+      2019 - 100 anos do Gauchão
+      2019 - Taça HPS 75 anos
+    </p>
+
+
+<footer>
+
+  <div class="bottom-bar">
+    <div class="container">
+      <div class="row">
+          <p>&copy; Grêmio Foot-bal Club</p>
+        </div>    
+          <ul class="social-icons">
+        </div>
+      </div>
+    </div>
+
+</footer>
+
+
+
+</body>
+</html>
