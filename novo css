@@ -1,157 +1,140 @@
 .topo {
-    padding: 0px 20px;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    background-color: rgb(33, 137, 221);
-  }
-  
-  main {
-    padding: 20px 0px;
-    display: flex;
-    justify-content: space-around;
-    background-color: rgb(5, 5, 5);
-  }
+  padding: 0px 20px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(33, 137, 221);
+}
 
-  body{
-    color: rgb(33, 137, 221) ;
-    background-color:white;
-    text-align: center;
-    
-    
+main {
+  padding: 20px 0px;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(5, 5, 5);
+}
 
-  }
-  header{
-    color:rgb(33, 137, 221);
-  }
+body{
+  color: rgb(33, 137, 221) ;
+  background-color:white;
+  text-align: center
+}
 
-  .audio-gremio{
+h1{
+ color: white;
+}
+.arena-gremio1{
+  height: 500px;
+  width: 700px;
+}
+
+h2{
+ color: white;
+
+}
+
+p{
+  color: white;
+}
+
+
+
+
+header{
+  color:rgb(33, 137, 221);
+}
+
+.audio-gremio{
 color: blue;
 text-align: center;
 text-shadow: 10px 10px 10px 10px #fff;
 
-  }
+}
 
 
 
-  
+
 footer{
-  background-color: #ffffff;
-  color: #fff;
-  font-family: Arial, sans-serif;
-  padding: 50px 0;
+background-color: #ffffff;
+color: #fff;
+font-family: Arial, sans-serif;
+padding: 50px 0;
 }
 
-footer h3 {
-  color: #fff;
-  font-size: 20px;
-  font-weight: bold;
-  margin-top: 0;
-  margin-bottom: 20px;
-}
 
-footer p {
-  font-size: 16px;
-  line-height: 1.5;
-  margin-bottom: 20px;
-}
-
-footer ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-footer ul li {
-  margin-bottom: 10px;
-}
-
-footer ul li a {
-  color: #fff;
-  text-decoration: none;
-}
 
 .bottom-bar {
-  background-color: #222;
-  padding: 20px 0;
+background-color: rgb(33, 137, 221);
+padding: 20px 0;
 }
 
 
 
-
-  section, aside {
-    width: 45%;
-  }
-  
-  
-  section header {
-    padding: 10px;
-    text-align: center;
-    background-color: rgb(16, 143, 202);
-  }
-  
-  section div {
-    padding: 10px;
-    text-align: center;
-    background-color: rgb(255, 255, 255);
-  }
-  
-  aside header {
-    padding: 10px;
-    text-align: center;
-    background-color: rgb(16, 143, 202);
-  }
-  
-  aside div {
-    padding: 10px;
-    text-align: center;
-    background-color: rgb(255, 255, 255);
-  }
-  
-  .titulo{
-    font-size: x-large;
-    text-shadow: 2px 2px #ffffff;
- }
- .ultopo{
-  list-style-type:none;
-  
+section, aside {
+  width: 45%;
 }
 
+
+section header {
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(16, 143, 202);
+}
+
+section div {
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+}
+
+aside header {
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(16, 143, 202);
+}
+
+aside div {
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+}
+
+.titulo{
+  font-size: x-large;
+  text-shadow: 2px 2px #ffffff;
+}
 
 .botao{
-  padding: 1px 1px 1px 1px;
-  width: 10%;
-  color: #ac0707;
-  border: 1px solidcolor #a71e1e55;
-  border-radius: 5px;
-  cursor: pointer;
-  text-align: center;
-  user-select: none;
-  transition:cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  box-shadow: 2px 2px 100px 10px #0f0f0f;
-  border-radius: 50%;
-  }
-
-
+padding: 1px 1px 1px 1px;
+width: 10%;
+color: #ac0707;
+border: 1px solidcolor #a71e1e55;
+border-radius: 5px;
+cursor: pointer;
+text-align: center;
+user-select: none;
+transition:cubic-bezier(0.175, 0.885, 0.32, 1.275);
+box-shadow: 2px 2px 100px 10px #0f0f0f;
+border-radius: 50%;
+}
 
 
 .texto {
-  position: relative;
-  width: 100%;
+position: relative;
+width: 100%;
 
 }
 
 .texto2 {
-  left: 50%;
-  margin-left: -132px; /* A metade de sua largura. */
-  position: absolute;
-  width: 20%; /* O valor que você desejar. */
+left: 50%;
+margin-left: -132px; /* A metade de sua largura. */
+position: absolute;
+width: 20%; /* O valor que você desejar. */
 }
 
 .idolos{
-  text-align: center;
-  background-color: #000000;
-  -webkit-text-fill-color: #6d6bf3;
+text-align: center;
+background-color: #000000;
+-webkit-text-fill-color: #6d6bf3;
 
 }
 
