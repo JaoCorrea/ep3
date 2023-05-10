@@ -1,144 +1,177 @@
 .topo {
-  padding: 0px 20px;
-  display: flex;
-  justify-content: center;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(33, 137, 221);
+}
+  
+.menu li:hover ul, .menu li.over ul{display:block;}
+
+.divmenu{
+    background-color: #000000;
+    width: 1005;
+}
+
+    .menu{
+    list-style:none;
+    border:1px solid #111111;
+    float:left;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    justify-content: center;
+    background-color: #000000;
+    
+}
+
+
+    .menu li{
+        position:relative;
+        float:left;
+        border-right:1px solid #fcfcfc;
+     }
+
+     .menu li ul{
+        position:absolute;
+        top:25px;
+        left:0;
+        background-color:#ad4141;
+        display:none;
+        padding-inline-start: 0px;
+        }
+
+        .menu li a{color:#e9e3e3; text-decoration:none; padding:5px 10px; display:block;}
+
+        .menu li a:hover{
+        background:#000000;
+        color:#fff;
+        box-shadow:0 3px 10px 0 #CCC;
+        box-shadow:0 3px 10px 0 #ccc;
+        text-shadow:0px 0px 5px #fff;
+        }
+        
+        .menu li:hover ul, .menu li.hover ul{
+            display:block;
+        }
+
+        .menu li ul li{
+            border:1px solid #000000;
+            display:block;
+            width:150px;
+        }
+
+  main {
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(5, 5, 5);
+  }
+  
+  body{
+    color: rgb(33, 137, 221) ;
+    background-color:white;
+    text-align: center
+  }
+  
+  h1{
+   color: white;
+  }
+  .arena-gremio1{
+    height: 500px;
+    width: 700px;
+  }
+  
+  h2{
+   color: white;
+  
+  }
+  
+  p{
+    color: white;
+  }
+     
+  
+  header{
+    color:rgb(33, 137, 221);
+  }
+  
+  .audio-gremio{
+  color: blue;
   text-align: center;
+  text-shadow: 10px 10px 10px 10px #fff;
+  
+  }
+      
+  
+  footer{
+  background-color: #ffffff;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  padding: 50px 0;
+  }
+   
+  
+  .bottom-bar {
   background-color: rgb(33, 137, 221);
-}
-
-main {
-  padding: 20px 0px;
-  display: flex;
-  justify-content: space-around;
-  background-color: rgb(5, 5, 5);
-}
-
-body{
-  color: rgb(33, 137, 221) ;
-  background-color:white;
-  text-align: center
-}
-
-h1{
- color: white;
-}
-.arena-gremio1{
-  height: 500px;
-  width: 700px;
-}
-
-h2{
- color: white;
-
-}
-
-p{
-  color: white;
-}
-
-
-
-
-header{
-  color:rgb(33, 137, 221);
-}
-
-.audio-gremio{
-color: blue;
-text-align: center;
-text-shadow: 10px 10px 10px 10px #fff;
-
-}
-
-
-
-
-footer{
-background-color: #ffffff;
-color: #fff;
-font-family: Arial, sans-serif;
-padding: 50px 0;
-}
-
-
-
-.bottom-bar {
-background-color: rgb(33, 137, 221);
-padding: 20px 0;
-}
-
-
-
-section, aside {
-  width: 45%;
-}
-
-
-section header {
-  padding: 10px;
+  padding: 20px 0;
+  }
+  
+  
+  
+  section, aside {
+    width: 45%;
+  }
+  
+  
+  section header {
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(16, 143, 202);
+  }
+  
+  section div {
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  aside header {
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(16, 143, 202);
+  }
+  
+  aside div {
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .titulo{
+    font-size: x-large;
+    text-shadow: 2px 2px #ffffff;
+  }  
+  
+  .texto {
+  position: relative;
+  width: 100%;
+  }
+  
+  .texto2 {
+  left: 50%;
+  margin-left: -132px; /* A metade de sua largura. */
+  position: absolute;
+  width: 20%; /* O valor que você desejar. */
+  }
+  
+  .idolos{
   text-align: center;
-  background-color: rgb(16, 143, 202);
-}
-
-section div {
-  padding: 10px;
-  text-align: center;
-  background-color: rgb(255, 255, 255);
-}
-
-aside header {
-  padding: 10px;
-  text-align: center;
-  background-color: rgb(16, 143, 202);
-}
-
-aside div {
-  padding: 10px;
-  text-align: center;
-  background-color: rgb(255, 255, 255);
-}
-
-.titulo{
-  font-size: x-large;
-  text-shadow: 2px 2px #ffffff;
-}
-
-.botao{
-padding: 1px 1px 1px 1px;
-width: 10%;
-color: #ac0707;
-border: 1px solidcolor #a71e1e55;
-border-radius: 5px;
-cursor: pointer;
-text-align: center;
-user-select: none;
-transition:cubic-bezier(0.175, 0.885, 0.32, 1.275);
-box-shadow: 2px 2px 100px 10px #0f0f0f;
-border-radius: 50%;
-}
-
-
-.texto {
-position: relative;
-width: 100%;
-
-}
-
-.texto2 {
-left: 50%;
-margin-left: -132px; /* A metade de sua largura. */
-position: absolute;
-width: 20%; /* O valor que você desejar. */
-}
-
-.idolos{
-text-align: center;
-background-color: #000000;
--webkit-text-fill-color: #6d6bf3;
-
-}
-
-.geromito{
-width: 300x;
-height: 450px;
-}
+  background-color: #000000;
+  -webkit-text-fill-color: #6d6bf3;
+  }
+  
+  .geromito{
+  width: 300x;
+  height: 450px;
+  }
