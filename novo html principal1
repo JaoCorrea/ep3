@@ -7,37 +7,23 @@
 </head>
 <body>
     <header class='topo'> 
-      <nav>
-        <a class="logo" href="/"></a>
-         <ul class="nav-list">
-           <li><a href="/">Inicio</a></li>
-           <li><a href="/">Inicio</a></li>
-           <li><a href="/">Inicio</a></li>
-           <li><a href="/">Inicio</a></li>
-           <li><a href="/">Inicio</a></li>
-         </ul>
-      </nav>    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      <div class="divmenu">
+        <nav>
+            <ul class="menu">
+                <li><a href="#">Home</a></li>
+                
+                <li>
+                    <ul>
+                        <li><a href="Hino-gremio.html"  href="#">Hino Grêmio</a></li>
+                        <li><a href="idolos.html" href="#">Idolos</a></li>
+                        <li><a href=""  href="#">A Origem Do Homem</a></li>                    
+                    </ul>
+                </li>
+                
+                    
+        </nav>
+    
+    </div>
 
       <ul class="ultopo">          
         <li ><a href="https://www.youtube.com/watch?v=jFQnvkO3UtE"> <img class="botao-gremio "  src="imagens-gremio/teste1-removebg-preview.png" alt="gremio"></a></li>
