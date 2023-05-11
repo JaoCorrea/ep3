@@ -105,11 +105,17 @@
     
   }
 
+  .titulo-h1-hino-gremio{
+    color: rgb(33, 137, 221);
+    
+  }
+
   
   .div-texto{
     color: rgb(33, 137, 221);
     width: 50%;
     margin-left: 25%;
+    height: auto;
   }
 
 .p-footer{
@@ -151,7 +157,7 @@
   color: blue;
   text-align: center;
   text-shadow: 10px 10px 10px 10px #fff;
-  
+  margin-top: 30px;
   }
       
   
@@ -207,7 +213,8 @@
   
   .texto {
   position: relative;
-  width: 100%;
+  width: 22%;
+    padding-left: 39%;
   }
   
   .texto2 {
@@ -235,4 +242,47 @@ h3{
   .geromito{
   width: 300x;
   height: 450px;
+  }
+
+  h1 {
+    margin: 0;
+    font-size: 36px;
+    font-weight: normal;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  }
+  
+  h2 {
+    margin-top: 0;
+    font-size: 24px;
+    font-weight: normal;
+    text-transform: uppercase;
+    color: #000000;
+  }
+  
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  li {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 10px;
   }
