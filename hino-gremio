@@ -5,58 +5,95 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="gremio.css">
 </head>
-<body>
 
-                      <h1>HINO DO MAIOR DO SUL</h1>
-       
-            <audio controls>
-                <source src="audio/hino-gremio1903.mp3" type="audio/mp3">
+<header>
+    <a href="trabalho-gremio.html"> <img class="botao-gremio "  
+        src="imagens-gremio/gremio-logo7.png" alt="gremio"></a>
+</header>
+<body>
+    
+    <h1>Hino Do Maior Do Sul</h1>     
+    
+        <audio controls autoplay class="audio-gremio" >
+                <source src="hino.mp3" type="audio/mp3">
         </audio>
 
 
-
-
-<p>
+<div class="texto">
+    <div class="texto2">
     <h3>
+       <p>
         Até a pé nós iremos
-Para o que der e vier
-Mas o certo é que nós estaremos
-Com o Grêmio onde o Grêmio estiver
-Até a pé nós iremos
-Para o que der e vier
-Mas o certo é que nós estaremos
-Com o Grêmio onde o Grêmio estiver
-50 anos de glória
-Tens imortal tricolor
-Os feitos da tua história
-Conta o Rio Grande com amor
-Até a pé nós iremos
-Para o que der e vier
-Mas o certo é que nós estaremos
-Com o Grêmio onde o Grêmio estiver
-Até a pé nós iremos
-Para o que der e vier
-Mas o certo é que nós estaremos
-Com o Grêmio onde o Grêmio estiver
-Nós somos bons torcedores
-Sem hesitarmos sequer
-Aplaudiremos o Grêmio
-Aonde o Grêmio estiver
-Até a pé nós iremos
-Para o que der e vier
-Mas o certo é que nós estaremos
-Com o Grêmio onde o Grêmio estiver
-Até a pé nós iremos
-Para o que der e vier
-Mas o certo é que nós estaremos
-Com o Grêmio onde o Grêmio estiver
+        Para o que der e vier
+        Mas o certo é que nós estaremos
+        Com o Grêmio onde o Grêmio estiver
+       </p> 
+       <p>
+        Até a pé nós iremos
+        Para o que der e vier
+        Mas o certo é que nós estaremos
+        Com o Grêmio onde o Grêmio estiver
+       </p>   
+       <p> 
+        50 anos de glória
+        Tens imortal tricolor
+        Os feitos da tua história
+        Conta o Rio Grande com amor
+       </p> 
+       <p>
+        Até a pé nós iremos
+        Para o que der e vier
+        Mas o certo é que nós estaremos
+        Com o Grêmio onde o Grêmio estiver
+       </p> 
+       <p>
+        Até a pé nós iremos
+        Para o que der e vier
+        Mas o certo é que nós estaremos
+        Com o Grêmio onde o Grêmio estiver
+       </p> 
+        <p>
+        Nós somos bons torcedores
+        Sem hesitarmos sequer
+        Aplaudiremos o Grêmio
+        Aonde o Grêmio estiver
+        </p>
+        <p>
+         Até a pé nós iremos
+        Para o que der e vier
+        Mas o certo é que nós estaremos
+        Com o Grêmio onde o Grêmio estiver   
+        </p>
+        <p>
+         Até a pé nós iremos
+        Para o que der e vier
+        Mas o certo é que nós estaremos
+        Com o Grêmio onde o Grêmio estiver   
+        </p>
     </h3>
-</p>
+</div>
+</div>
 
 
 
 
     
 </body>
+
+<footer>
+
+    <div class="bottom-bar">
+      <div class="container">
+        <div class="row">
+            <p class="p-footer">&copy; Grêmio Foot-bal Club</p>
+          </div>    
+            <ul class="social-icons">
+          </div>
+        </div>
+      </div>
+  
+  </footer>
+  
 </html>
