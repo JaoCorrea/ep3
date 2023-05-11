@@ -143,6 +143,8 @@
   header{
     color:rgb(33, 137, 221);
     background-image: rgb(33, 137, 221);;
+    position: sticky;
+    top: 0;
   }
   
   .audio-gremio{
@@ -168,9 +170,10 @@
   
   
   
-  section, aside {
+ section, aside {
     width: 45%;
-  }
+  } 
+  
   
   
   section header {
