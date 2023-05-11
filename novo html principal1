@@ -6,53 +6,59 @@
     <title>Document</title>
 </head>
 <body>
-    <header class='topo'> 
+  <ul class="ultopo">          
+    <li >
+      <a href="https://www.youtube.com/watch?v=jFQnvkO3UtE"> <img class="botao-gremio "  
+        src="imagens-gremio/gremio-logo7.png" alt="gremio"></a>
+    </li>
+      <h1> Grêmio Foot-Ball Club</h1>
+  </ul> 
+    <header> 
+     
       <div class="divmenu">
         <nav>
             <ul class="menu">
-                <li><a href="#">Home</a></li>
-                
-                <li>
-                    <ul>
-                        <li><a href="Hino-gremio.html"  href="#">Hino Grêmio</a></li>
-                        <li><a href="idolos.html" href="#">Idolos</a></li>
-                        <li><a href=""  href="#">A Origem Do Homem</a></li>                    
-                    </ul>
-                </li>
-                
+                <li><a href="#">Home</a> </li>                 
                     
-        </nav>
-    
+                <li><a href="Hino-gremio.html"  href="#">Hino Grêmio</a></li>
+                <li><a href="idolos.html" href="#">Idolos</a></li>
+                <li><a href=""  href="#">A Origem Do Homem</a></li>
+                    
+                                                          
+      </nav>    
     </div>
 
-      <ul class="ultopo">          
-        <li ><a href="https://www.youtube.com/watch?v=jFQnvkO3UtE"> <img class="botao-gremio "  src="imagens-gremio/teste1-removebg-preview.png" alt="gremio"></a></li>
-          <h1> Grêmio Foot-Ball Club</h1>
+      
     </header>
 
-      <main>
-          <section>
-              <header>
-                  <h2>História</h2>  
-              </header>              
-         
-                  <p>O Grêmio Foot-Ball Porto Alegrense (conhecido apenas por Grêmio) é um clube de futebol brasileiro da cidade de Porto Alegre, no Rio Grande do Sul, fundado em 15 de setembro de 1903 por Candido Dias da Silva. É considerado um dos maiores clubes do Brasil e da América do Sul. Suas cores são azul, preto e branco. O clube tem como alcunhas: Imortal Tricolor, Tricolor dos Pampas, Tricolor Gaúcho, Rei de Copas e Clube de Todos</p>
-           
-          </section>
-      
-      </main>
+      <div class="div-principal">
+        
+          <div class="titulo-h2">
+            <h2>História</h2>  
+          </div>
+          
+          <div class="div-texto">
+            <p class="p-historia">O Grêmio Foot-Ball Porto Alegrense (conhecido apenas por Grêmio) é um clube de futebol brasileiro da cidade de Porto Alegre,
+               no Rio Grande do Sul, fundado em 15 de setembro de 1903 por Candido Dias da Silva. É considerado um dos maiores clubes do 
+               Brasil e da América do Sul. Suas cores são azul, preto e branco. O clube tem como alcunhas: Imortal Tricolor, Tricolor dos Pampas, 
+               Tricolor Gaúcho, Rei de Copas e Clube de Todos</p>    
+          </div>
+        </div>
 </body>
-   <p>
-      <h1>
-             Arena Do Grêmio
-      </h1>
-   </p>
+<div class="div-principal">
+        
+  <div class="titulo-h2">
+    <h2> Arena Do Grêmio</h2>  
+  </div>
+  
+  <div class="div-texto">
+    <p class="p-historia"> Arena do Grêmio é um estádio de futebol localizado no bairro Farrapos, Porto Alegre, Rio Grande do Sul.Sua capacidade oficial é para 55.662 lugares, sendo o 7º maior estádio do Brasil. No Sisbrace, sistema de avaliação de estádios de futebol do Ministério do Esporte do Brasil, a Arena do Grêmio recebeu classificação máxima em todos os aspectos.A arena foi inaugurada oficialmente em 8 de dezembro de 2012, com uma cerimônia que contou com a presença do grupo americano Blue Man Group, e um jogo amistoso entre o Grêmio e o Hamburgo, que terminou com o placar de 2–1 para o Grêmio. Mesmo sendo um dos estádios mais modernos do Brasil, não foi relacionado como sede da Copa do Mundo FIFA de 2014, realizada no país, mas em 2019 a Arena do Grêmio foi selecionada como uma das sedes da Copa América de 2019 onde foram realizadas cinco partidas, entre elas a semifinal entre Chile e Peru, que terminou em 3–0 a favor dos peruano</p>    
+  </div>
+</div>
 
-   <p>
-    Arena do Grêmio é um estádio de futebol localizado no bairro Farrapos, Porto Alegre, Rio Grande do Sul.Sua capacidade oficial é para 55.662 lugares, sendo o 7º maior estádio do Brasil. No Sisbrace, sistema de avaliação de estádios de futebol do Ministério do Esporte do Brasil, a Arena do Grêmio recebeu classificação máxima em todos os aspectos.A arena foi inaugurada oficialmente em 8 de dezembro de 2012, com uma cerimônia que contou com a presença do grupo americano Blue Man Group, e um jogo amistoso entre o Grêmio e o Hamburgo, que terminou com o placar de 2–1 para o Grêmio. Mesmo sendo um dos estádios mais modernos do Brasil, não foi relacionado como sede da Copa do Mundo FIFA de 2014, realizada no país, mas em 2019 a Arena do Grêmio foi selecionada como uma das sedes da Copa América de 2019 onde foram realizadas cinco partidas, entre elas a semifinal entre Chile e Peru, que terminou em 3–0 a favor dos peruano
-   </p>
+     
 
-   <img class="arena-gremio1" src ="imagens-gremio/arena-gremio.jpg" alt="arena">
+   <img class="arena-gremio1" src ="imagens-gremio/Arena_do_Grêmio_2014.jpg" alt="arena">
 
 
 <footer>
@@ -60,7 +66,7 @@
   <div class="bottom-bar">
     <div class="container">
       <div class="row">
-          <p>&copy; Grêmio Foot-bal Club</p>
+          <p class="p-footer">&copy; Grêmio Foot-bal Club</p>
         </div>    
           <ul class="social-icons">
         </div>
