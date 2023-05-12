@@ -6,6 +6,31 @@
     <link rel="stylesheet" href="css-gremio.css">
 </head>
 <body>
+
+   <ul class="ultopo">          
+      <li >
+        <a href="https://www.youtube.com/watch?v=jFQnvkO3UtE"> <img class="botao-gremio "  
+          src="imagens/logo-gremio.png" alt="gremio"></a>
+      </li>
+        <h1>Grêmio Foot-Ball Club</h1>
+    </ul> 
+
+
+   <header>
+      <div class="divmenu">
+         <nav>
+             <ul class="menu">
+                 <li><a href="index.html">Home</a> </li>                 
+                     
+                 <li><a href="Hino-gremio.html"  href="#">Hino Grêmio</a></li>
+                 <li><a href="vinicius1.html" href="#">Idolos</a></li>
+                 <li><a href="titulo.html"  href="#">Titulos</a></li>
+                     
+                                                           
+       </nav>    
+     </div>
+   </header>
+
    <div class="idolos">
     <h1> Idolos do Grêmio </h1>
     <h2> Renato Gaúcho </h2>
